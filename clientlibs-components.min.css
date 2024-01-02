@@ -3630,14 +3630,14 @@ span.flatpickr-weekday {
         max-height: .938rem
     }
 
-    [data-site-id=eczema-111] .text-area-v2 .count-label small {
+    /* [data-site-id=eczema-111] .text-area-v2 .count-label small {
         font-size: .75rem;
         line-height: 1.125rem
-    }
+    } */
 
-    [data-site-id=eczema-111] .box__inner.box--multiple h1 {
+    /* [data-site-id=eczema-111] .box__inner.box--multiple h1 {
         line-height: 3rem
-    }
+    } */
 
     [data-site-id=eczema-111] .box__inner.box--multiple>.box-content {
         padding: 0 !important
@@ -7492,13 +7492,14 @@ span.flatpickr-weekday {
         bottom: 2.75rem
     }
 
-    [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h1 {
+    /* [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h1 {
         font-size: 38px
     }
-
-    [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h2,[data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h3 {
+    
+    [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h2,
+    [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h3 {
         font-size: 30px
-    }
+    } 
 
     [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h4 {
         font-size: 22px
@@ -7510,7 +7511,7 @@ span.flatpickr-weekday {
 
     [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h6 {
         font-size: 16px
-    }
+    } */
 
     [data-site-id=eczema-111] .stickybar__menu {
         right: -213px;
