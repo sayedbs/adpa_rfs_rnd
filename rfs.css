@@ -1,0 +1,27 @@
+[data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h1,
+[data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text .h1 {
+    font-size: calc(1rem + 2.5vw);
+    font-size: clamp(2rem, 4vw, 2.625rem);
+    line-height: 1;
+}
+
+[data-site-id=eczema-111] .box__inner.box--multiple>.box-content .box:first-of-type .box-content .headline-text h1 {
+    line-height: 1.13;
+}
+
+[data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h2 {
+    font-size: calc(1rem + 1.8vw);
+    font-size: clamp(1.625rem, 3.6vw, 2.25rem);
+}
+
+[data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h3 {
+    font-size: calc(1rem + 1.4vw);
+    font-size: clamp(1.375rem, 2.5vw, 1.687rem);
+}
+
+@media (min-width: 1200px) {
+    [data-site-id=eczema-111] .headline-text .adpa_v2 .cmp-text h1 {
+        font-size: 2.625rem;
+        line-height: 1;
+    }
+}
